@@ -1,6 +1,10 @@
 # raiffeisen
 
-A new Flutter project.
+The concept Raiffeisen Bank mobile application.
+
+[Figma template](https://www.figma.com/file/mrb8wBoyFKUOe2ENxCncP4/Raiffeisen-Copy?node-id=0%3A1)
+
+<img src="/docs/images/preview.png" alt="preview" width="200"/>
 
 ## Getting Started
 
